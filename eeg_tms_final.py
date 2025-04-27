@@ -475,8 +475,3 @@ with open(report_path, 'w') as f:
 
 print(f"\nВсе результаты сохранены в папку: {os.path.abspath(output_dir)}")
 print(f"Содержимое папки: {os.listdir(output_dir)}")
-
-
-
-
-
